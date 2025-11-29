@@ -188,6 +188,7 @@ TCS2025B-5/
 1. **Clonar el repositorio**
 ```bash
 git clone https://github.com/EnyelbertAnderson/Biz_Up.git
+cd Biz_Up
 cd TCS2025B-5
 ```
 
